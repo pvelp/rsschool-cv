@@ -1,5 +1,3 @@
-# [CV](https://github.com/pvelp/test_cv)
-
 # **Toschakov Pavel**
 
 ## **Contacts**
@@ -25,7 +23,7 @@ Future fullstack developer
 -   Java Core
 -   Asm
 -   Html, CSS, JS
--   Git
+-   Git, Docker
 -   MongoDB, RethinkDB
 -   MySql, SQLite3, Postgresql
 
